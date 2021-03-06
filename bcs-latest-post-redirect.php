@@ -20,6 +20,7 @@
   *  @return String $url
 **/
 
+
 function bsc_get_latest_permalink() {
     $args = array(
         'numberposts' => '1',
